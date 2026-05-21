@@ -1,0 +1,260 @@
+[
+  {
+    "source": "OpenAlex",
+    "title": "Pupillary responses and event‐related potentials as indices of the orienting reflex",
+    "authors": [
+      "Genevieve Z. Steiner",
+      "Robert J. Barry"
+    ],
+    "year": 2011,
+    "venue": "Psychophysiology",
+    "abstract": "This study examined skin conductance responses, the late positive complex of the event-related potential, and pupillary dilation responses as autonomic and central correlates of the orienting reflex (OR) in the context of indifferent and significant stimuli. In particular, we aimed to clarify the inconsistencies surrounding the pupillary dilation response as an OR index. An auditory dishabituation paradigm was employed, and physiological measures were recorded from 24 participants. Response decrement to a repeated stimulus, response recovery to a change stimulus, and subsequent dishabituation were assessed. Findings confirmed expectations that the skin conductance response and the late positive complex are indices of the OR. The pupillary dilation response, however, demonstrated an unexpected sensitivity to stimulus novelty only, while the prestimulus measure of tonic pupil diameter showed the significance effect that was expected of the phasic measure. Together, these findings argue against the suggestion that the pupillary dilation response is an OR index. The diverse results obtained from this experiment contribute to our understanding of the OR, and provide impetus for further research with a variety of paradigm manipulations.",
+    "url": "https://doi.org/10.1111/j.1469-8986.2011.01271.x",
+    "pdf_url": "https://www.academia.edu/download/50947919/j.1469-8986.2011.01271.x20161218-12189-1xqo7ja.pdf",
+    "relevance": 9.0,
+    "summary": "This research investigated the physiological responses associated with the orienting reflex, specifically examining skin conductance, event-related potentials, and pupillary dilation. Contrary to previous assumptions, the study found that pupillary dilation primarily reflected novelty rather than the overall orienting response.  Instead, the skin conductance response and event-related potentials reliably indicated the orienting reflex, suggesting a more nuanced understanding of the physiological mechanisms underlying this reflexive behavior.",
+    "key_info": {
+      "method": "Auditory dishabituation paradigm; skin conductance response, event-related potential (late positive complex), pupillary dilation measurements",
+      "dataset": "24 participants",
+      "results": "Skin conductance response and late positive complex are indices of the OR. Pupillary dilation sensitive to novelty; prestimulus pupil diameter showed significance effect.",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "OpenAlex",
+    "title": "Infrared webcam-based non-contact measurement of event-related potentials from event-related pupillary responses: An approach focused on mental workload",
+    "authors": [
+      "Sangin Park",
+      "Laehyun Kim",
+      "Jihyeon Ha",
+      "Sungchul Mun"
+    ],
+    "year": 2022,
+    "venue": "Journal of Computational Design and Engineering",
+    "abstract": "Abstract The event-related potential (ERP) technique is widely used in various fields, but the requirement for sensor attachment limits its application. The aim of this study was to develop an infrared (IR) webcam-based, non-contact system to obtain the amplitudes and latencies of ERP via measurement of event-related pupillary responses (ErPRs) from pupillary rhythms. A total of 32 healthy volunteers participated in this study, and they were required to perform the three levels of mental arithmetic tasks to induce mental workloads (MWLs). ERPs and ErPR were measured by ERP task for the different MWL states and compared based on statistical analysis, classification, correlation, and Bland–Altman plot. Both ERP and ErPR amplitudes and latencies for the three MWL states were revealed by one-way repeated measures analysis of variance to be statistically significantly different. Furthermore, the ERP and ErPR data were found to have 73 and 80% classification performances, respectively, using k-nearest neighbour (10-fold cross validation, n = 96). Correlation coefficients between ERP and ErPR features, which were in the range of 0.642–0.734, indicated good or strong correlation, and good agreement between the indices from these two types of experimental measurement indices was apparent in Bland–Altman plots. An advanced method for IR-webcam-based non-contact determination of ERP components via ErPR measurement was successfully developed, and it was demonstrated that this technique can be used for ERP component monitoring using a low-cost, non-invasive, and easily implemented IR webcam without the burden of sensor attachment.",
+    "url": "https://doi.org/10.1093/jcde/qwac059",
+    "pdf_url": "https://academic.oup.com/jcde/article-pdf/9/4/1327/45630655/qwac059.pdf",
+    "relevance": 9.0,
+    "summary": "Researchers developed a new, non-contact method for measuring event-related potentials (ERPs) using an infrared webcam and tracking event-related pupillary responses.  The study, involving 32 participants performing mental arithmetic tasks, demonstrated significant differences in both ERP and ErPR data across varying levels of mental workload.  The technique showed strong correlations between the two measurements and achieved high classification accuracy, suggesting a promising, low-cost approach for monitoring ERP components.",
+    "key_info": {
+      "method": "Infrared webcam-based measurement of event-related pupillary responses (ErPRs) to determine event-related potentials (ERPs)",
+      "dataset": "32 healthy volunteers performing mental arithmetic tasks at three levels of mental workload",
+      "results": "Statistically significant differences in ERP and ErPR amplitudes and latencies across MWL states. Classification performances of 73% and 80% using k-nearest neighbour (10-fold cross validation, n = 96). Correlation coefficients between ERP and ErPR features in the range of 0.642–0.734. Good agreement between indices in Bland–Altman plots.",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "OpenAlex",
+    "title": "Event-related pupillary response-based authentication system using eye-tracker add-on augmented reality glasses for individual identification",
+    "authors": [
+      "Sangin Park",
+      "Jihyeon Ha",
+      "Laehyun Kim"
+    ],
+    "year": 2024,
+    "venue": "Frontiers in Physiology",
+    "abstract": "This study aimed at developing a noncontact authentication system using event-related pupillary response (ErPR) epochs in an augmented reality (AR) environment. Thirty participants were shown in a rapid serial visual presentation consisting of familiar and unknown human photographs. ErPR was compared with event-related potential (ERP). ERP and ErPR amplitudes for familiar faces were significantly larger compared with those for stranger faces. The ERP-based authentication system exhibited perfect accuracy using a linear support vector machine classifier. A quadratic discriminant analysis classifier trained using ErPR features achieved high accuracy (97%) and low false acceptance (0.03) and false rejection (0.03) rates. The correlation coefficients between ERP and ErPR amplitudes were 0.452-0.829, and the corresponding Bland-Altman plots showed a fairly good agreement between them. The ErPR-based authentication system allows noncontact authentication of persons without the burden of sensor attachment via low-cost, noninvasive, and easily implemented technology in an AR environment.",
+    "url": "https://doi.org/10.3389/fphys.2024.1325784",
+    "pdf_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1325784/pdf",
+    "relevance": 9.0,
+    "summary": "Researchers developed a novel authentication system utilizing event-related pupillary responses (ErPR) captured through augmented reality glasses.  Comparing ErPR data with event-related potentials, they found significantly larger responses to familiar faces, allowing for highly accurate identification using a support vector machine.  This non-contact system, employing ErPR data within an AR environment, demonstrated high accuracy and reliability for individual identification.",
+    "key_info": {
+      "method": "Event-related pupillary response (ErPR) analysis combined with linear support vector machine and quadratic discriminant analysis classifiers.",
+      "dataset": "Rapid serial visual presentation of familiar and unknown human photographs.",
+      "results": "ErPR amplitudes for familiar faces were significantly larger than for stranger faces. ERP-based authentication achieved perfect accuracy. ErPR-based authentication achieved 97% accuracy with low false acceptance and rejection rates. Correlation coefficients between ERP and ErPR were 0.452-0.829.",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "OpenAlex",
+    "title": "The impact of personal relevance on emotion processing: evidence from event-related potentials and pupillary responses",
+    "authors": [
+      "Mareike Bayer",
+      "Katja Ruthmann",
+      "Annekathrin Schacht"
+    ],
+    "year": 2017,
+    "venue": "Social Cognitive and Affective Neuroscience",
+    "abstract": "Emotional stimuli attract attention and lead to increased activity in the visual cortex. The present study investigated the impact of personal relevance on emotion processing by presenting emotional words within sentences that referred to participants' significant others or to unknown agents. In event-related potentials, personal relevance increased visual cortex activity within 100 ms after stimulus onset and the amplitudes of the Late Positive Complex (LPC). Moreover, personally relevant contexts gave rise to augmented pupillary responses and higher arousal ratings, suggesting a general boost of attention and arousal. Finally, personal relevance increased emotion-related ERP effects starting around 200 ms after word onset; effects for negative words compared to neutral words were prolonged in duration. Source localizations of these interactions revealed activations in prefrontal regions, in the visual cortex and in the fusiform gyrus. Taken together, these results demonstrate the high impact of personal relevance on reading in general and on emotion processing in particular.",
+    "url": "https://doi.org/10.1093/scan/nsx075",
+    "pdf_url": "https://academic.oup.com/scan/article-pdf/12/9/1470/27104841/nsx075.pdf",
+    "relevance": 9.0,
+    "summary": "This study examined how personal relevance affects our emotional responses when reading. Researchers found that words related to significant others triggered greater activity in the visual cortex and increased the amplitude of the Late Positive Complex (LPC) in participants’ brains.  Furthermore, personal relevance led to heightened attention and arousal, as measured by pupillary responses and ratings, and prolonged emotional responses in the brain’s visual and prefrontal regions.",
+    "key_info": {
+      "method": "Event-related potentials (ERPs) and pupillary responses",
+      "dataset": "Emotional words presented in personal and unknown contexts",
+      "results": "Personal relevance increased visual cortex activity (100ms), LPC amplitudes, pupillary responses, arousal ratings, and prolonged negative word ERP effects (200ms). Activations in prefrontal regions, visual cortex, and fusiform gyrus.",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "OpenAlex",
+    "title": "Event-related transcutaneous vagus nerve stimulation modulates behaviour and pupillary responses during an auditory oddball task",
+    "authors": [
+      "Valerio Villani",
+      "Gianluca Finotti",
+      "Daniele Di Lernia",
+      "Manos Tsakiris",
+      "Ruben T. Azevedo"
+    ],
+    "year": 2022,
+    "venue": "Psychoneuroendocrinology",
+    "abstract": "… , we tested whether an “event-related” taVNS protocol can … Response times (RT) and\nstimuli-driven pupillary diameter (… modulation of target-related pupil dilation depended on pre-…",
+    "url": "https://doi.org/10.1016/j.psyneuen.2022.105719",
+    "pdf_url": "https://kar.kent.ac.uk/93635/3/Event-related%20transcutaneous%20vagus%20nerve%20stimulation%20modulates%20behaviour%20and%20pupillary%20responses%20during%20an%20auditory%20oddball%20task.pdf",
+    "relevance": 9.0,
+    "summary": "This research investigated whether brief, event-related vagus nerve stimulation (taVNS) could influence behavior. Specifically, the study examined how taVNS affected reaction times and pupil responses during an auditory task involving unusual stimuli. The findings suggest that taVNS modulated target-related pupil dilation, indicating a potential impact on attentional processing.",
+    "key_info": {
+      "method": "Event-related transcutaneous vagus nerve stimulation (taVNS)",
+      "dataset": "",
+      "results": "Modulation of target-related pupil dilation",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "OpenAlex",
+    "title": "Phasic, Event-Related Transcutaneous Auricular Vagus Nerve Stimulation Modifies Behavioral, Pupillary, and Low-Frequency Oscillatory Power Responses",
+    "authors": [
+      "Christian Wienke",
+      "Marcus Grueschow",
+      "Aiden Haghikia",
+      "Tino Zaehle"
+    ],
+    "year": 2023,
+    "venue": "Journal of Neuroscience",
+    "abstract": "Transcutaneous auricular vagus nerve stimulation (taVNS) has been proposed to activate the locus ceruleus-noradrenaline (LC-NA) system. However, previous studies failed to find consistent modulatory effects of taVNS on LC-NA biomarkers. Previous studies suggest that phasic taVNS may be capable of modulating LC-NA biomarkers such as pupil dilation and alpha oscillations. However, it is unclear whether these effects extend beyond pure sensory vagal nerve responses. Critically, the potential of the pupillary light reflex as an additional taVNS biomarker has not been explored so far. Here, we applied phasic active and sham taVNS in 29 subjects (16 female, 13 male) while they performed an emotional Stroop task (EST) and a passive pupil light reflex task (PLRT). We recorded pupil size and brain activity dynamics using a combined Magnetoencephalography (MEG) and pupillometry design. Our results show that phasic taVNS significantly increased pupil dilation and performance during the EST. During the PLRT, active taVNS reduced and delayed pupil constriction. In the MEG, taVNS increased frontal-midline theta and alpha power during the EST, whereas occipital alpha power was reduced during both the EST and PLRT. Our findings provide evidence that phasic taVNS systematically modulates behavioral, pupillary, and electrophysiological parameters of LC-NA activity during cognitive processing. Moreover, we demonstrate for the first time that the pupillary light reflex can be used as a simple and effective proxy of taVNS efficacy. These findings have important implications for the development of noninvasive neuromodulation interventions for various cognitive and clinical applications. SIGNIFICANCE STATEMENT taVNS has gained increasing attention as a noninvasive neuromodulation technique and is widely used in clinical and nonclinical research. Nevertheless, the exact mechanism of action of taVNS is not yet fully understood. By assessing physiology and behavior in a response conflict task in healthy humans, we demonstrate the first successful application of a phasic, noninvasive vagus nerve stimulation to improve cognitive control and to systematically modulate pupillary and electrophysiological markers of the noradrenergic system. Understanding the mechanisms of action of taVNS could optimize future clinical applications and lead to better treatments for mental disorders associated with noradrenergic dysfunction. In addition, we present a new taVNS-sensitive pupillary measure representing an easy-to-use biomarker for future taVNS studies.",
+    "url": "https://doi.org/10.1523/jneurosci.0452-23.2023",
+    "pdf_url": "https://www.jneurosci.org/content/jneuro/43/36/6306.full.pdf",
+    "relevance": 9.0,
+    "summary": "This research investigated the effects of phasic transcutaneous auricular vagus nerve stimulation (taVNS) on cognitive and physiological responses. The study found that taVNS significantly increased pupil dilation and improved performance on an emotional task, alongside changes in brainwave activity.  Notably, the research demonstrated that pupil size changes could serve as a reliable indicator of taVNS’s impact, offering a new way to assess its effectiveness.",
+    "key_info": {
+      "method": "Phasic taVNS applied during emotional Stroop task (EST) and passive pupil light reflex task (PLRT); MEG and pupillometry",
+      "dataset": "29 subjects (16 female, 13 male)",
+      "results": "taVNS increased pupil dilation and performance during EST; taVNS reduced and delayed pupil constriction during PLRT; taVNS increased frontal-midline theta and alpha power during EST; occipital alpha power was reduced during EST and PLRT",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "OpenAlex",
+    "title": "Age-related differences in event-related potentials and pupillary responses in cued reaction time tasks",
+    "authors": [
+      "Maria José Ribeiro",
+      "Miguel Castelo‐Branco"
+    ],
+    "year": 2018,
+    "venue": "Neurobiology of Aging",
+    "abstract": "Deficits in the noradrenergic system are associated with age-related cognitive decline, yet how healthy aging influences the functional properties of this arousal system is still poorly understood. We addressed this question in humans using pupillometry, a well-established indicator of activity levels in the locus coeruleus (LC), the main noradrenergic center in the brain. We recorded the pupillogram and the electroencephalogram of 36 young and 39 older adults, while they were engaged in cued reaction time tasks known to elicit LC responses in monkeys. Event-related potentials (ERPs) revealed significant group differences. Older adults showed higher cortical activation during preparatory processes reflected in enhanced cue-evoked frontocentral ERPs and reduced parietal ERPs at the time of the motor response. In contrast, the amplitude of the task-related pupillary responses did not show a significant group effect. Our findings suggest that aging-related changes in cortical processing during motor preparation and execution, as documented by electroencephalogram, are not accompanied by changes in the amplitude of activation of the LC, as documented by pupillography.",
+    "url": "https://doi.org/10.1016/j.neurobiolaging.2018.09.028",
+    "pdf_url": "https://doi.org/10.1016/j.neurobiolaging.2018.09.028",
+    "relevance": 9.0,
+    "summary": "This study investigated how aging affects cognitive processes by examining brain activity in young and older adults performing a reaction time task. Researchers found that older adults exhibited increased cortical activation during the preparation phase of the task, indicated by specific brainwave patterns, but this was not reflected in changes to the activity of their noradrenergic system, measured through pupillary responses.  Essentially, the brain’s preparatory processes shifted with age without altering the overall level of arousal.",
+    "key_info": {
+      "method": "Electroencephalogram (EEG) and pupillometry during cued reaction time tasks",
+      "dataset": "36 young adults and 39 older adults",
+      "results": "Older adults showed enhanced frontocentral cue-evoked ERPs and reduced parietal ERPs during motor preparation; pupillary response amplitude did not show a significant group effect.",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "Google Scholar",
+    "title": "[HTML] Event-related pupillary response-based authentication system using eye-tracker add-on augmented reality glasses for individual identification",
+    "authors": [
+      "S Park",
+      "J Ha",
+      "L Kim"
+    ],
+    "year": 2024,
+    "venue": "Frontiers in Physiology, 2024",
+    "abstract": "… a noncontact authentication system using event-related pupillary response (ErPR) epochs\nin an … ErPR was compared with event-related potential (ERP). ERP and ErPR amplitudes for …",
+    "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1325784/full",
+    "pdf_url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1325784/full",
+    "relevance": 9.0,
+    "summary": "This research explores a new authentication system that utilizes the subtle changes in pupil size – the event-related pupillary response (ErPR) – to identify individuals. The study compares the ErPR with established methods like event-related potentials (ERPs) to assess its potential as a reliable biometric identifier. Ultimately, the goal is to develop a non-contact authentication system leveraging eye movements for secure identification.",
+    "key_info": {
+      "method": "Event-related pupillary response (ErPR) based authentication system",
+      "dataset": "",
+      "results": "ErPR compared with event-related potential (ERP) amplitudes",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "OpenAlex",
+    "title": "Future versus present: Time perspective and pupillary response in a relatedness judgment task investigating temporal event knowledge",
+    "authors": [
+      "Kati Nowack",
+      "Taciano L. Milfont",
+      "Elke van der Meer"
+    ],
+    "year": 2012,
+    "venue": "International Journal of Psychophysiology",
+    "abstract": "",
+    "url": "https://doi.org/10.1016/j.ijpsycho.2012.12.006",
+    "pdf_url": null,
+    "relevance": 8.0,
+    "summary": "",
+    "key_info": {}
+  },
+  {
+    "source": "Google Scholar",
+    "title": "[HTML] Age-related differences in event-related potentials and pupillary responses in cued reaction time tasks",
+    "authors": [
+      "MJ Ribeiro",
+      "M Castelo-Branco"
+    ],
+    "year": 2019,
+    "venue": "Neurobiology of aging, 2019",
+    "abstract": "… Event-related potentials (ERPs) revealed significant group differences. Older adults showed\n… the motor response. In contrast, the amplitude of the task-related pupillary responses did not …",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0197458018303531",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0197458018303531",
+    "relevance": 8.0,
+    "summary": "This research investigated how aging affects cognitive processing through event-related potentials and pupillary responses during reaction time tasks. Older adults exhibited distinct ERP patterns compared to younger participants, suggesting differences in neural processing related to motor responses. However, the study found that older adults’ pupillary responses, which are often linked to cognitive effort, did not show a significant change alongside these ERP differences.",
+    "key_info": {
+      "method": "cued reaction time tasks",
+      "dataset": "",
+      "results": "Significant group differences in ERPs; older adults showed significant group differences in motor response.",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "Google Scholar",
+    "title": "[HTML] A solid frame for the window on cognition: Modeling event-related pupil responses",
+    "authors": [
+      "CW Korn",
+      "DR Bach"
+    ],
+    "year": 2016,
+    "venue": "Journal of vision, 2016",
+    "abstract": "… pupil responses is lacking. Here we seek to establish a formal, quantitative forward model for\npupil responses by … prediction that pupil constriction dominates the responses to darkness …",
+    "url": "https://arvojournals.org/article.aspx?articleid=2496281",
+    "pdf_url": "https://arvojournals.org/article.aspx?articleid=2496281",
+    "relevance": 8.0,
+    "summary": "This research aims to create a precise mathematical model explaining how pupil responses change in reaction to darkness. The study focuses on the idea that pupil constriction is the primary driver of these responses. By establishing this model, researchers hope to better understand the underlying mechanisms of cognition reflected in pupil dilation and constriction.",
+    "key_info": {
+      "method": "Forward model for pupil responses",
+      "dataset": "",
+      "results": "Prediction that pupil constriction dominates responses to darkness",
+      "limitations": ""
+    }
+  },
+  {
+    "source": "Google Scholar",
+    "title": "Vulnerability to schizophrenia: Information processing in the pupil and event-related potential",
+    "authors": [
+      "S Steinhauer",
+      "J Zubin"
+    ],
+    "year": 1982,
+    "venue": "Biological markers in psychiatry and neurology, 1982",
+    "abstract": "… pupillary response, and the event-related potential recorded from the human scalp. The\nobservation of pupillary … who failed to show pupillary dilation in response to a painful stimulus (…",
+    "url": "https://www.sciencedirect.com/science/article/pii/B9780080279879500421",
+    "pdf_url": "https://scholar.archive.org/work/ho33bcwarfcillgmqfix64se74/access/wayback/http://www.wpic.pitt.edu/research/biometrics/Publications/Biometrics%20Archives%20PDF/725-1982%20Steinhauer%20&%20Zubin.pdf",
+    "relevance": 8.0,
+    "summary": "This research investigated how information processing relates to vulnerability to schizophrenia by examining pupillary responses and brain activity. Specifically, the study found that individuals with a higher risk of schizophrenia exhibited a reduced pupillary dilation in response to a painful stimulus, alongside altered brainwave patterns. These findings suggest a potential link between impaired information processing, as reflected in pupillary behavior and brain activity, and the development of schizophrenia.",
+    "key_info": {
+      "method": "Pupillary response, event-related potential",
+      "dataset": "",
+      "results": "Individuals with schizophrenia showed reduced pupillary dilation in response to pain.",
+      "limitations": ""
+    }
+  }
+]

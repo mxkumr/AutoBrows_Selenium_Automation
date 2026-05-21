@@ -7,11 +7,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 # --- PIPELINE INITIALIZATION CONFIG ---
-STOCKFISH_PATH = str(
-    Path(__file__).resolve().parent
-    / "stockfish"
-    / "stockfish-windows-x86-64-avx2.exe"
-)
+# This script lives in `chess overlay/`; the Stockfish engine binary is
+# expected at `chess overlay/stockfish/stockfish-windows-x86-64-avx2.exe`.
+# Override STOCKFISH_PATH below if you keep the engine elsewhere.
+PROJECT_DIR = Path(__file__).resolve().parent
+STOCKFISH_PATH = str(PROJECT_DIR / "stockfish" / "stockfish-windows-x86-64-avx2.exe")
 GAME_URL_HINTS = ("/play/online", "/play/computer", "/live", "/game/live", "/game/daily", "/game/")
 HOME_URL_HINTS = ("/home", "/learn", "/lessons", "/puzzles", "/today")  # not a real game
 

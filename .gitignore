@@ -1,0 +1,3 @@
+# Stockfish binaries (too large for GitHub; keep locally for chess-bot.py)
+stockfish/stockfish-windows-x86-64-avx2.exe
+stockfish-windows-x86-64-avx2.zip
